@@ -1,6 +1,7 @@
 # MultiUser-Chat-Application
 
 **OverView**
+
 We have created a Multi User Chat Application Based on Java in which if one user sends a message then it will be
 broadcasted to all the other clients or users.
 
